@@ -1,0 +1,47 @@
+/* font-family: "Poppins", sans-serif;
+font-family: "Roboto Mono", monospace; */
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+/**** Hero Section ******/
+.hero-section {
+  background-image: url("../img//hero-background.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+
+.navbar-brand {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.hero-heading {
+  width: 500px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Roboto Mono", monospace;
+  margin: 0 auto;
+  font-size: 4rem;
+}
+
+.hero-description {
+  width: 426px;
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 0 auto;
+}
+
+.hero-text {
+  padding: 15rem;
+}
+
+.scroll-down-instruction {
+  text-align: center;
+}
+
+/**** Quick Navigation Section ******/
