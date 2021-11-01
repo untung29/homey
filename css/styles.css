@@ -4,8 +4,18 @@ font-family: "Roboto Mono", monospace; */
   font-family: "Poppins", sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 500;
+}
+
 /**** Hero Section ******/
-.hero-section {
+#hero-section {
   background-image: url("../img//hero-background.jpg");
   background-position: center center;
   background-size: cover;
@@ -45,3 +55,13 @@ font-family: "Roboto Mono", monospace; */
 }
 
 /**** Quick Navigation Section ******/
+#quick-navigation {
+}
+
+.carousel {
+  padding: 3rem 0;
+}
+
+.card-navigation {
+  width: 20rem;
+}
